@@ -18,6 +18,7 @@
 |206|[  Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./leetcode/206.%20Reverse%20Linked%20List.cpp)|3 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./leetcode/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|704 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./leetcode/242.%20Valid%20Anagram.cpp)|8 ms|
+|349|[Intersection of Two ArraysIntersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./leetcode/349.%20Intersection%20of%20Two%20Arrays.cpp)|4 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./leetcode/704.%20Binary%20Search.cpp)|34 ms|
 |707|[ Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C++](./leetcode/1.%20Two%20Sum.cpp)|53 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./leetcode/977.%20SortedSquare.cpp)|38 ms|
