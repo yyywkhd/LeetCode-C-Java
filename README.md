@@ -14,10 +14,13 @@
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|6 ms|
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./leetcode/24.%20Swap%20Nodes%20in%20Pairs.cpp)|0 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./leetcode/27.%20Remove%20Element.cpp)|3 ms|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./leetcode/59.%20Spiral%20Matrix%20II.cpp)|0 ms|
 |202|[Happy Numbers](https://leetcode.com/problems/happy-number/)|[C++](leetcode/202.%20Happy%20Number.cpp)|3 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./leetcode/203.%20Remove%20Linked%20List%20Elements_vir_head.cpp)|20 ms|
 |206|[  Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./leetcode/206.%20Reverse%20Linked%20List.cpp)|3 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./leetcode/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|39 ms|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./leetcode/225.%20Implement%20Stack%20using%20Queues.cpp)|0 ms|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./leetcode/232.%20Implement%20Queue%20using%20Stacks232.%20Implement%20Queue%20using%20Stacks.cpp)|0 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./leetcode/242.%20Valid%20Anagram.cpp)|8 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](.leetcode/344.%20Reverse%20String.cpp)|24 ms|
 |349|[Intersection of Two ArraysIntersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./leetcode/349.%20Intersection%20of%20Two%20Arrays.cpp)|4 ms|
