@@ -32,4 +32,4 @@
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./leetcode/704.%20Binary%20Search.cpp)|34 ms|
 |707|[ Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C++](./leetcode/1.%20Two%20Sum.cpp)|53 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./leetcode/977.%20SortedSquare.cpp)|38 ms|
-
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/Remove All Adjacent Duplicates In String/)|[C++](./leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|17 ms|
