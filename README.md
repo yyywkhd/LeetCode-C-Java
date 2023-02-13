@@ -12,6 +12,7 @@
 |8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./leetcode/8.%20String%20to%20Integer%20(atoi).cpp)|14 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./leetcode/13.%20Roman%20to%20Integer.cpp)|38 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|6 ms|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./leetcode/20.%20Valid%20Parentheses.cpp)|0 ms|
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./leetcode/24.%20Swap%20Nodes%20in%20Pairs.cpp)|0 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./leetcode/27.%20Remove%20Element.cpp)|3 ms|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./leetcode/59.%20Spiral%20Matrix%20II.cpp)|0 ms|
