@@ -15,8 +15,11 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./leetcode/20.%20Valid%20Parentheses.cpp)|0 ms|
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./leetcode/24.%20Swap%20Nodes%20in%20Pairs.cpp)|0 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./leetcode/27.%20Remove%20Element.cpp)|3 ms|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./leetcode/53.%20Maximum%20Subarray.cpp)|133 ms|
+|55|[Jump Game](https://leetcode.com/problems/Jump-Game/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|74 ms|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./leetcode/59.%20Spiral%20Matrix%20II.cpp)|0 ms|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/Binary-Tree-Inorder-Traversal/)|[C++](./leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|0 ms|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|4 ms|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/Binary-Tree-Preorder-Traversal/)|[C++](./leetcode/144.%20Binary%20Tree%20Preorder%20Traversal.cpp)|0 ms|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/Binary-Tree-Postorder-Traversal/)|[C++](./leetcode/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)|0 ms|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[C++](./leetcode/151.%20Reverse%20Words%20in%20a%20String.cpp)|7 ms|
