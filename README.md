@@ -16,10 +16,12 @@
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./leetcode/24.%20Swap%20Nodes%20in%20Pairs.cpp)|0 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./leetcode/27.%20Remove%20Element.cpp)|3 ms|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/Search-in-Rotated-Sorted-Array/)|[C++](./leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|7 ms|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/Find-First-and-Last-Position-of-Element-in-Sorted-Array/)|[Java](.leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |45|[Jump Game II](https://leetcode.com/problems/Jump-Game-II/)|[C++](./leetcode/45.%20Jump%20Game%20II.cpp)|20 ms|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./leetcode/53.%20Maximum%20Subarray.cpp)|133 ms|
 |55|[Jump Game](https://leetcode.com/problems/Jump-Game/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|74 ms|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./leetcode/59.%20Spiral%20Matrix%20II.cpp)|0 ms|
+|69|[Sqrt(x)](https://leetcode.com/problems/Sqrt(x)/)|[Java](./leetcode/69.%20Sqrt(x).java)|1 ms|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/Binary-Tree-Inorder-Traversal/)|[C++](./leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|0 ms|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|4 ms|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/Binary-Tree-Preorder-Traversal/)|[C++](./leetcode/144.%20Binary%20Tree%20Preorder%20Traversal.cpp)|0 ms|
@@ -44,4 +46,5 @@
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./leetcode/704.%20Binary%20Search.cpp)|34 ms|
 |707|[ Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C++](./leetcode/1.%20Two%20Sum.cpp)|53 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./leetcode/977.%20SortedSquare.cpp)|38 ms|
+|1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/Maximize-Sum-Of-Array-After-K-Negations/)|[C++](./leetcode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.cpp)|13 ms|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/Remove-All-Adjacent-Duplicates-In-String/)|[C++](./leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|17 ms|
