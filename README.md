@@ -17,15 +17,17 @@
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./leetcode/27.%20Remove%20Element.cpp)|3 ms|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/Search-in-Rotated-Sorted-Array/)|[C++](./leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|7 ms|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/Find-First-and-Last-Position-of-Element-in-Sorted-Array/)|[Java](.leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
-|45|[Jump Game II](https://leetcode.com/problems/Jump-Game-II/)|[C++](./leetcode/45.%20Jump%20Game%20II.cpp)|20 ms|
+|45|[Jump Game II](https://leetcode.com/problems/Jump-Game-II/)|[C++](./leetcode/45.%20Jump%20Game%20II.cpp)|45 ms|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./leetcode/53.%20Maximum%20Subarray.cpp)|133 ms|
-|55|[Jump Game](https://leetcode.com/problems/Jump-Game/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|74 ms|
+|55|[Jump Game](https://leetcode.com/problems/Jump-Game/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|74 ms|\
+|56|[Merge Intervals](https://leetcode.com/problems/Merge-Intervals/)|[C++](./leetcode/56.%20Merge%20Intervals.cpp)|45 ms|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./leetcode/59.%20Spiral%20Matrix%20II.cpp)|0 ms|
 |69|[Sqrt(x)](https://leetcode.com/problems/Sqrt(x)/)|[Java](./leetcode/69.%20Sqrt(x).java)|1 ms|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/Binary-Tree-Inorder-Traversal/)|[C++](./leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|0 ms|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|4 ms|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/Binary-Tree-Preorder-Traversal/)|[C++](./leetcode/144.%20Binary%20Tree%20Preorder%20Traversal.cpp)|0 ms|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/Binary-Tree-Postorder-Traversal/)|[C++](./leetcode/145.%20Binary%20Tree%20Postorder%20Traversal.cpp)|0 ms|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./leetcode/148.%20Sort%20List.cpp)|0 ms|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[C++](./leetcode/151.%20Reverse%20Words%20in%20a%20String.cpp)|7 ms|
 |202|[Happy Numbers](https://leetcode.com/problems/happy-number/)|[C++](leetcode/202.%20Happy%20Number.cpp)|3 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./leetcode/203.%20Remove%20Linked%20List%20Elements_vir_head.cpp)|20 ms|
