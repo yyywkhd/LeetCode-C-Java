@@ -18,6 +18,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/Search-in-Rotated-Sorted-Array/)|[C++](./leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|7 ms|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/Find-First-and-Last-Position-of-Element-in-Sorted-Array/)|[Java](.leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |45|[Jump Game II](https://leetcode.com/problems/Jump-Game-II/)|[C++](./leetcode/45.%20Jump%20Game%20II.cpp)|45 ms|
+|49|[Group Anagrams](https://leetcode.com/problems/Group-Anagrams/)|[C++](./leetcode/49.%20Group%20Anagrams.cpp)|36 ms|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./leetcode/53.%20Maximum%20Subarray.cpp)|133 ms|
 |55|[Jump Game](https://leetcode.com/problems/Jump-Game/)|[C++](./leetcode/55.%20Jump%20Game.cpp)|74 ms|\
 |56|[Merge Intervals](https://leetcode.com/problems/Merge-Intervals/)|[C++](./leetcode/56.%20Merge%20Intervals.cpp)|45 ms|
@@ -41,6 +42,7 @@
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./leetcode/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|39 ms|
 |215|[ Kth Largest Element in an Array.cpp](https://leetcode.com/problems/Kth-Largest-Element-in-an-array/)|[C++](.leetcode/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)|94 ms|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./leetcode/225.%20Implement%20Stack%20using%20Queues.cpp)|0 ms|
+|278|[First Bad Version](https://leetcode.com/problems/First-Bad-Version/)|[C++](./leetcode/278.%20First%20Bad%20Version.cpp)|3 ms|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./leetcode/232.%20Implement%20Queue%20using%20Stacks232.%20Implement%20Queue%20using%20Stacks.cpp)|0 ms|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/)|[C++](./leetcode/239.%20Sliding%20Window%20Maximum.cpp)|307 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./leetcode/242.%20Valid%20Anagram.cpp)|8 ms|
