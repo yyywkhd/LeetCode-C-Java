@@ -60,6 +60,7 @@
 |455|[Assign Cookies](https://leetcode.com/problems/Assign-Cookies/)|[C++](./leetcode/455.%20Assign%20Cookies.cpp)|31 ms|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[C++](./leetcode/459.%20Repeated%20Substring%20Pattern.cpp)|20 ms|
 |541|[ Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[C++](./leetcode/541.%20Reverse%20String%20II.cpp)|4 ms|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/Search-in-a-Binary-Search-Tree/)|[C++](./leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|43 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./leetcode/704.%20Binary%20Search.cpp)|34 ms|
 |707|[ Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C++](./leetcode/1.%20Two%20Sum.cpp)|53 ms|
 |735|[Asteroid Collision](https://leetcode.com/problems/Asteroid-Collision/)|[C++](./leetcode/735.%20Asteroid%20Collision.cpp)|12 ms|
